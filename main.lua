@@ -320,4 +320,4 @@ function HighlightModule.RemoveHighlightGuis()
 	end
 end
 
-return
+return HighlightModule
