@@ -1,5 +1,5 @@
 # Highlight
-**A module for esp and chams inspired by roblox's highlight instance**
+**A module for esp and chams inspired by roblox's highlight instance.**
 # Documentation
 ### Create Gui
 **Creates a ScreenGui and a ViewportFrame.**
